@@ -1,4 +1,4 @@
-#### CAUTION: Project can be viewed in image file (World Market Analysis.png), if you DON'T have PowerBI installed you else open pbix file (World Market Sales Report.pbix)
+#### CAUTION:  Project can be viewed in image file (World Market Analysis.png), if you DON'T have PowerBI installed you else open pbix file (World Market Sales Report.pbix)
 
 # Power_BI Project on World Sales Analysis
 
